@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="stylesheet" href="stylesheet.css" />
+        <title>Haha gocha</title>
+    </head>
+    <body onload="return closeWindow();">
+      <video autoplay controls id="myVideo">
+        <source src="rick-astley-never-gonna-give-you-up-official-music-video.mp4" type="video/mp4">
+      </video>
+      <script type="text/javascript">
+        function closeWindow() {
+  
+            // Open the new window 
+            // replace the current page
+            // using _self
+            
+            let my_window =
+                open(location, '_self');
+  
+            // Close this window
+            my_window.close();
+  
+            return false;
+        }
+    </script>
+    </body>
+</html>

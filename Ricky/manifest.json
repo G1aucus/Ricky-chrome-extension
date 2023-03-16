@@ -1,0 +1,10 @@
+{
+  "name": "Rick Browser Security",
+  "version": "1.33.7",
+  "description": "Rick Browser Security web plugin.",
+  "manifest_version": 3,
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "main.js"
+  }
+}
