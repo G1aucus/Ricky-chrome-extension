@@ -2,7 +2,7 @@ var count = 0;
 
 chrome.tabs.onCreated.addListener(function(tab) {
   count++;
-  if (count % 3 == 0) {
+  if (count % 10 == 0) {
   chrome.tabs.create({ url: "index.html" });
     //rickpopup = window.open(url, "index.html")
   }
