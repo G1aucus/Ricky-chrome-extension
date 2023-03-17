@@ -10,10 +10,12 @@ Go to more tools.
 -----------------
 
 ![image](https://user-images.githubusercontent.com/54720126/225724991-c27879f8-32e1-4ea3-a86e-38dbf1a79543.png)
+
 Press on addons.
 ----------------
 
 ![image](https://user-images.githubusercontent.com/54720126/225725373-8240bc96-158f-4ba5-9bdf-f5c20fd5c37c.png)
+
 Choose the file named ricky
 ---------------------------
 
