@@ -1,6 +1,9 @@
 # Ricky-chrome-extension
-Best rickroll chrome extension. 
+Best rickroll chrome extension.
+
 [Website](rickie.netlify.app)
+
+This extension will open a tab playing the stong "never gonna giver you up" every 10 times you open a tab.
 
 Press the three dots.
 ---------------------
